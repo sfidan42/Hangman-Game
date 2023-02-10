@@ -1,0 +1,7 @@
+1) Store hangman shapes in a class/classes
+2) Choose a word randomly from a list of words and pay attention to that their lengths must be the same .
+3) Learn if the user enters a letter or a word
+4) Compare the user's input with our word
+5) If the input is word try to match with our word and try to finish the game
+6) If the input is a letter ,call next shape from the class that stores hangman shapes or call nothing and add the letter in the window
+7) If hangman is done or the word is guessed correctly, finish the game and ask the user to restart or finish the game.
